@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default simgview_img_heightcreen margins, per the Android Design guidelines. -->
+
+    <!-- use in 10.1” tablet 1280x800 mdpi -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Font size -->
+    <dimen name="common_font_hint">50sp</dimen>
+    <dimen name="common_font_size">20sp</dimen>
+    <dimen name="common_font_size2">11sp</dimen>
+    <dimen name="common_font_listing_size">16sp</dimen>
+    <dimen name="common_font_title">14sp</dimen>
+    <dimen name="common_font_size_new2">30sp</dimen>
+    <dimen name="common_tittle_size">20sp</dimen>
+    <dimen name="common_listview_item_size">18sp</dimen>
+    <dimen name="activity_login_input_font_size">20sp</dimen>
+    <dimen name="activity_login_button_font_size">18sp</dimen>
+    <dimen name="drawer_item_tittle_size">18sp</dimen>
+    <dimen name="show_status_size">28sp</dimen>
+    <dimen name="common_edittext_font_size">18sp</dimen>
+    <dimen name="delay_history_font_size">12sp</dimen>
+    <dimen name="company_name_font_size">30sp</dimen>
+    <dimen name="common_font_size_new">20sp</dimen>
+    <dimen name="common_tittle_size_new">16sp</dimen>
+    <dimen name="view_pager_font_size">20sp</dimen>
+    <dimen name="extra_info_font_size">20sp</dimen>
+    <dimen name="list_item_detail_size">14sp</dimen>
+    <dimen name="common_profile_name_size_new">18sp</dimen>
+    <dimen name="bottom_dots_font_size">40sp</dimen>
+    <dimen name="common_tiny_font_size_new">16sp</dimen>
+    <dimen name="common_tiny_font_size_new2">13sp</dimen>
+    <dimen name="common_tiny_font_size_poll">15sp</dimen>
+    <dimen name="lift_button_font_size">60sp</dimen>
+    <dimen name="common_tiny_font_size_new3">17sp</dimen>
+
+    <!-- Padding size -->
+    <dimen name="activity_login_header_padding_size">250dp</dimen>
+    <dimen name="activity_login_input_padding_size">15dp</dimen>
+    <dimen name="visitor_list_name_padding">30dp</dimen>
+    <dimen name="visitor_list_photo_size">80dp</dimen>
+    <dimen name="common_padding_size">8dp</dimen>
+    <dimen name="drawer_item_padding_size">80dp</dimen>
+    <dimen name="list_img_padding_size">10dp</dimen>
+    <dimen name="common_padding_size2">25dp</dimen>
+    <dimen name="common_padding_size3">20dp</dimen>
+    <dimen name="common_padding_size4">35dp</dimen>
+    <dimen name="visitor_icon_padding">50dp</dimen>
+    <dimen name="home_screen_padding_size">150dp</dimen>
+    <dimen name="home_top_padding_size">100dp</dimen>
+    <dimen name="visitor_top_padding_size">300dp</dimen>
+    <dimen name="common_socialbar_margin_size">4dp</dimen>
+    <dimen name="buzz_padding_size">150dp</dimen>
+    <dimen name="common_fragment_padding">30dp</dimen>
+    <dimen name="poll_participant_padding_bottom">20dp</dimen>
+    <dimen name="poll_listing_padding_size">8dp</dimen>
+
+    <!-- Margin size -->
+    <dimen name="activity_login_input_margin_size">30dp</dimen>
+    <dimen name="activity_login_button_margin_size">20dp</dimen>
+    <dimen name="activity_login_form_margin_size">100dp</dimen>
+    <dimen name="activity_visitor_title_margin_size">20dp</dimen>
+    <dimen name="common_btn_margin_size">14dp</dimen>
+    <dimen name="common_margin_size">10dp</dimen>
+    <dimen name="common_home_margin_size">20dp</dimen>
+    <dimen name="common_home_margin_size2">50dp</dimen>
+    <dimen name="common_home_margin_size3">50dp</dimen>
+    <dimen name="common_sub_tittle_size_new">17sp</dimen>
+    <dimen name="common_container_margin_size">15dp</dimen>
+    <dimen name="profile_margin_size">50dp</dimen>
+    <dimen name="spinner_edt_margin_size">14dp</dimen>
+    <dimen name="poll_option_margin_size">28dp</dimen>
+    <dimen name="committee_list_margin_size">23dp</dimen>
+    <dimen name="poll_textview_margin_size">20dp</dimen>
+    <dimen name="tiny_margin_size">6dp</dimen>
+    <dimen name="tiny_margin_size2">8dp</dimen>
+    <dimen name="tiny_margin_size3">6dp</dimen>
+
+
+    <!-- Height size -->
+    <dimen name="home_banner_height">300dp</dimen>
+    <dimen name="ptz_button_height">50dp</dimen>
+    <dimen name="ptz_edittext_height">60dp</dimen>
+    <dimen name="imgview_img_height">220dp</dimen>
+    <dimen name="imgview_img_height2">180dp</dimen>
+    <dimen name="imgview_walkin_camera_height">400dp</dimen>
+    <dimen name="imgview_item_height">180dp</dimen>
+    <dimen name="drawer_slider_height">58dp</dimen>
+    <dimen name="drawer_slider_height2">45dp</dimen>
+    <dimen name="imgview_home_height">150dp</dimen>
+    <dimen name="imgview_home_height2">90dp</dimen>
+    <dimen name="listview_item_height">40dp</dimen>
+    <dimen name="imgview_icon_height">30dp</dimen>
+    <dimen name="imgview_icon_height2">20dp</dimen>
+    <dimen name="google_map_height">600dp</dimen>
+    <dimen name="login_banner_height">400dp</dimen>
+    <dimen name="login_banner_logo_height">420dp</dimen>
+    <dimen name="drawer_item_icon_height">30dp</dimen>
+    <dimen name="submit_button_icon_height">35dp</dimen>
+    <dimen name="submit_button_icon_height2">45dp</dimen>
+    <dimen name="imgview_and_padding_height">260dp</dimen>
+    <dimen name="imgview_and_padding_height2">280dp</dimen>
+    <dimen name="drawer_header_icon_height">100dp</dimen>
+    <dimen name="img_btn_height">5dp</dimen>
+    <dimen name="profile_height">270dp</dimen>
+    <dimen name="profile_height2">370dp</dimen>
+    <dimen name="greeting_height">400dp</dimen>
+    <dimen name="menu_icon_height">80dp</dimen>
+    <dimen name="poll_participant_height">160dp</dimen>
+    <dimen name="listview_height">200dp</dimen>
+    <dimen name="btn_poll_height">40dp</dimen>
+    <dimen name="rv_menu_layout_height">150dp</dimen>
+    <dimen name="rv_menu_img_height">80dp</dimen>
+    <dimen name="add_report_img_height">35dp</dimen>
+    <dimen name="profile_icon_height">70dp</dimen>
+    <dimen name="payment_month_img_height">70dp</dimen>
+    <dimen name="history_month_img_height">65dp</dimen>
+    <dimen name="view_pager_height">300dp</dimen>
+    <dimen name="panic_event_detail_icon_height">40dp</dimen>
+    <dimen name="event_action_button_width">130dp</dimen>
+    <dimen name="live_view_height">500dp</dimen>
+    <dimen name="live_view_height2">500dp</dimen>
+    <dimen name="img_more_menu_height">70dp</dimen>
+    <dimen name="select_qr_height">300dp</dimen>
+
+    <!-- Weight size -->
+    <item name="common_weight_size" format="float" type="dimen">0.2</item>
+    <item name="common_list_weight_size" format="float" type="dimen">1.9</item>
+
+    <!-- Width size -->
+    <dimen name="imgview_img_width">220dp</dimen>
+    <dimen name="imgview_item_width">180dp</dimen>
+    <dimen name="drawer_slider_width">330dp</dimen>
+    <dimen name="imgview_home_width">20dp</dimen>
+    <dimen name="imgview_home_width2">120dp</dimen>
+    <dimen name="ptz_button_width">100dp</dimen>
+    <dimen name="imgview_icon_width">40dp</dimen>
+    <dimen name="imgview_icon_camera_width">60dp</dimen>
+    <dimen name="form_checkbox_width">150dp</dimen>
+    <dimen name="login_banner_width">400dp</dimen>
+    <dimen name="gridview_width">200dp</dimen>
+    <dimen name="login_banner_logo_width">440dp</dimen>
+    <dimen name="home_banner_width">300dp</dimen>
+    <dimen name="drawer_item_icon_width">30dp</dimen>
+    <dimen name="drawer_header_icon_width">100dp</dimen>
+    <dimen name="polling_result_width">85dp</dimen>
+    <dimen name="poll_btn_width">120dp</dimen>
+    <dimen name="rv_menu_layout_width">140dp</dimen>
+    <dimen name="attachment_image_width">80dp</dimen>
+    <dimen name="listing_icon">600dp</dimen>
+    <dimen name="img_more_menu_width">70dp</dimen>
+    <dimen name="profile_icon_height2">80dp</dimen>
+
+
+    <!-- Image view add photo size -->
+    <dimen name="common_icon_margin_size">5dp</dimen>
+
+
+    <!-- Table -->
+    <dimen name="common_small">10dp</dimen>
+
+
+    <!-- for fab button -->
+    <dimen name="fab_button_diameter">86dp</dimen>
+    <dimen name="fab_button_margin_bottom">16dp</dimen>
+    <dimen name="fab_button_margin_right">16dp</dimen>
+    <dimen name="elevation_low">1dp</dimen>
+    <dimen name="elevation_high">8dp</dimen>
+
+    <!--Circle Menu Residence-->
+    <dimen name="ringArcLayoutMarginRes">195dp</dimen>
+    <dimen name="ringMarginRes">270dp</dimen>
+    <dimen name="btnArcLayoutMargin1Res">120dp</dimen>
+    <dimen name="tvArcLayoutMargin1Res">108dp</dimen>
+    <dimen name="tvArcLayoutMargin3Res">88dp</dimen>
+    <dimen name="circleArcLayoutMarginRes">220dp</dimen>
+    <dimen name="logoArcLayoutMarginRes">255dp</dimen>
+
+    <!--Circle Menu-->
+    <dimen name="ringArcLayoutMargin">200dp</dimen>
+    <dimen name="ringArcRadius">310dp</dimen>
+    <dimen name="ringArcAxisRadius">310dp</dimen>
+    <dimen name="ringWidth">600dp</dimen>
+    <dimen name="ringHeight">600dp</dimen>
+    <dimen name="ringMargin">240dp</dimen>
+    <dimen name="btnArcLayoutMargin1">145dp</dimen>
+    <dimen name="btnArcLayoutMargin2">70dp</dimen>
+    <dimen name="btnArcRadius">380dp</dimen>
+    <dimen name="btnArcAxisRadius">320dp</dimen>
+    <dimen name="btnWidth">120dp</dimen>
+    <dimen name="btnHeight">120dp</dimen>
+    <dimen name="tvArcLayoutMargin1">140dp</dimen>
+    <dimen name="tvArcLayoutMargin2">165dp</dimen>
+    <dimen name="tvArcLayoutMargin3">110dp</dimen>
+    <dimen name="tvArcLayoutMargin4">122dp</dimen>
+    <dimen name="tvArcLayoutMargin5">155dp</dimen>
+    <dimen name="tvArcRadius">380dp</dimen>
+    <dimen name="tvArcAxisRadius">300dp</dimen>
+    <dimen name="tvArcRadius2">420dp</dimen>
+    <dimen name="tvArcAxisRadius2">380dp</dimen>
+    <dimen name="circleArcLayoutMargin">220dp</dimen>
+    <dimen name="circleArcRadius">300dp</dimen>
+    <dimen name="circleArcAxisRadius">310dp</dimen>
+    <dimen name="circleWidth">300dp</dimen>
+    <dimen name="circleHeight">300dp</dimen>
+    <dimen name="circleMargin">290dp</dimen>
+    <dimen name="logoArcLayoutMargin">260dp</dimen>
+    <dimen name="logoArcRadius">260dp</dimen>
+    <dimen name="logoArcAxisRadius">160dp</dimen>
+
+    <!--Panic button-->
+    <dimen name="panicMargin">40dp</dimen>
+    <dimen name="panicMargin2">25dp</dimen>
+    <dimen name="panicMargin3">23dp</dimen>
+    <dimen name="panicMargin4">14dp</dimen>
+    <dimen name="panicMargin5">12dp</dimen>
+    <dimen name="panicMargin6">30dp</dimen>
+    <dimen name="panicMargin7">170dp</dimen>
+
+    <dimen name="panicPadding">20dp</dimen>
+    <dimen name="panicPadding2">30dp</dimen>
+    <dimen name="panicPadding3">60dp</dimen>
+    <dimen name="panicPadding4">25dp</dimen>
+
+    <dimen name="panicTimerWidth">230dp</dimen>
+    <dimen name="panicTimerHeight">230dp</dimen>
+    <dimen name="panicIconWidth">80dp</dimen>
+    <dimen name="panicIconHeight">80dp</dimen>
+    <dimen name="panicImageWidth">170dp</dimen>
+    <dimen name="panicImageHeight">170dp</dimen>
+
+    <dimen name="panicTimerFontSize">130sp</dimen>
+    <dimen name="panicDescriptionFontSize">26sp</dimen>
+    <dimen name="panicButtonFontSize">28sp</dimen>
+
+    <!--for tablet 10"-->
+    <dimen name="common_margin_size2">150dp</dimen>
+    <dimen name="common_pading_size2">50dp</dimen>
+    <dimen name="common_pading_size3">20dp</dimen>
+    <dimen name="common_pading_size4">20dp</dimen>
+    <dimen name="common_pading_size5">6dp</dimen>
+    <dimen name="common_pading_size6">80dp</dimen>
+    <dimen name="common_pading_size7">5dp</dimen>
+    <dimen name="common_pading_size8">20dp</dimen>
+    <dimen name="emergency_icon_margin_padidng">15dp</dimen>
+
+
+    <dimen name="design_fab_image_size">48dp</dimen>
+    <dimen name="design_fab_content_size">48dp</dimen>
+
+    <dimen name="camera_icon_width">200dp</dimen>
+    <dimen name="camera_icon_height">150dp</dimen>
+    <dimen name="linear_layout_recipients">150dp</dimen>
+    <dimen name="my_profile_height">180dp</dimen>
+
+    <dimen name="my_profile_icon">40dp</dimen>
+    <dimen name="dialog_icon_credintial_size">100dp</dimen>
+    <dimen name="edit_annoucement_ll_size">150dp</dimen>
+    <dimen name="common_button_width_size">125dp</dimen>
+    <dimen name="panic_button_icon_size">400dp</dimen>
+
+    <!-- Test Panic Button -->
+    <dimen name="panicTestingImageWidth">170dp</dimen>
+    <dimen name="panicTestingImageHeight">170dp</dimen>
+    <dimen name="panicTestingTimerWidth">235dp</dimen>
+    <dimen name="panicTestingTimerHeight">235dp</dimen>
+
+    <dimen name="panicTestingPictureWidth">130dp</dimen>
+    <dimen name="panicTestingPictureHeight">150dp</dimen>
+
+    <dimen name="panicTestingMargin">20dp</dimen>
+    <dimen name="panicTestingMargin2">5dp</dimen>
+    <dimen name="panicTestingMargin3">15dp</dimen>
+    <dimen name="panicTestingMargin4">4dp</dimen>
+    <dimen name="panicTestingMargin5">2dp</dimen>
+    <dimen name="panicTestingMargin6">30dp</dimen>
+    <dimen name="panicTestingMargin7">60dp</dimen>
+
+    <dimen name="panicTestingPadding">5dp</dimen>
+    <dimen name="panicTestingPadding2">10dp</dimen>
+    <dimen name="panicTestingPadding3">40dp</dimen>
+    <dimen name="panicTestingPadding4">10dp</dimen>
+
+
+</resources>

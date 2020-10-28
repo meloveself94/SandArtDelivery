@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/white">
+    <!--#FF5E6F81-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+    <ImageButton
+        android:id="@+id/toolbar_back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:visibility="visible"
+        android:src="@drawable/icn_all_apps"
+        android:background="?selectableItemBackgroundBorderless"
+        android:layout_gravity="start"/>
+
+    <TextView
+        android:id="@+id/toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/common_home_margin_size"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="沙雕外卖"
+        android:textSize="@dimen/show_status_size" />
+
+    </LinearLayout>
+
+</com.google.android.material.appbar.MaterialToolbar>

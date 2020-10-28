@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- general colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_dark">#EEEEEE</color>
+    <color name="black">#000000</color>
+    <color name="font_title_color">#4D4D4D</color>
+    <color name="font_sub_title_color">#A7A9AC</color>
+    <color name="login_input_color">#B9B9B9</color>
+    <color name="dot_active">#bcbbbb</color>
+
+    <!-- For FAB -->
+    <!--Color primary 500 from palette colors -->
+    <color name="primary">#6200EE</color>
+    <!--Color primary dark 700 from palette colors -->
+    <color name="primaryDark">#6200EE</color>
+
+
+    <!-- For number picker -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#6200EE</color>
+    <color name="colorLightGray">#D8D8D8</color>
+
+    <!-- color for text -->
+    <color name="font_color">#0ED20E</color>
+
+    <color name="txt_error">#FA0E0E</color>
+
+    <color name="dark_grey_bottom_nav">#062F42</color>
+
+
+    <!-- color for login & password text, signup button -->
+    <color name="login_form_color">#DAE9F0</color>
+    <color name="login_button">#00baf2</color>
+    <color name="login_button_selected">#0B6266</color>
+    <color name="signup_button">#0099cc</color>
+
+    <!-- common use -->
+    <color name="common_text_color">#01BAF3</color>
+    <color name="common_background_color">#4bcff6</color>
+    <color name="common_edittext_background_color">#f3f3f3</color>
+    <color name="common_background_color2">#03B1E6</color>
+    <color name="common_text_color_new">#212121</color>
+    <color name="common_information_bar_color">#eeeeee</color>
+
+    <!-- Background Color -->
+    <color name="background_social_media_bar">#01baf2</color>
+
+
+    <!-- border line color -->
+    <color name="border_line_color">#F1EDED</color>
+
+    <!--for dots in view pager-->
+
+    <color name="dot_inactive">#666666</color>
+
+    <!-- approve -->
+    <color name="primary2">#30D20E</color>
+    <color name="status_approve_color">#7de701</color>
+    <color name="status_approve_text_color">#90df88</color>
+    <color name="status_active">#00FF00</color>
+    <color name="status_positive">#31d912</color>
+    <!-- reject -->
+    <color name="status_reject_color">#a3a3a3</color>
+    <color name="status_reject_text_color">#ff0000</color>
+    <!--pending -->
+    <color name="status_pending_color">#ffc20f</color>
+    <color name="status_pending_text_color">#f9bb14</color>
+    <!--pending blacklist-->
+    <color name="status_pending_blacklist_color">#fde67c</color>
+    <color name="status_pending_blacklist_text_color">#f9bb14</color>
+    <!-- blacklist -->
+    <color name="status_blacklist_color">#e50a14</color>
+    <color name="status_blacklist_text_color">#ffffff</color>
+
+    <color name="status_checkin_color">#0B6121</color>
+    <color name="status_checkout_color">#886A08</color>
+    <color name="status_delay_color">#AC58FA</color>
+    <color name="status_confirmation_color">#61380B</color>
+
+    <!-- for action bar -->
+    <color name="actionbar_background">#4bcff6</color>
+    <color name="actionbar_text">#ffffff</color>
+
+
+    <!-- for visitor listview -->
+    <color name="visitor_listview">#D1D2D4</color>
+    <color name="visitor_listview2">#F3F3F5</color>
+
+
+    <!-- color for slider menu -->
+    <color name="slider_background">#ffffff</color>
+    <color name="slider_background_pressed">#239DA0</color>
+    <color name="slider_background_normal">#ffffff</color>
+    <color name="slider_header">#0DC1BE</color>
+    <color name="slider_header_title">#73CDD5</color>
+    <color name="slider_header_background">#ffffff</color>
+    <color name="slider_header_border">#cacaca</color>
+    <color name="login_signup_selected">#77E5E2</color>
+    <color name="login_signup_not_selected">#C1F7F5</color>
+
+
+    <!-- For Panic Button -->
+    <color name="grey_dark">#D9D9D9</color>
+    <color name="grey_dark2">#E6E6E6</color>
+    <color name="grey_light">#E5E5E5</color>
+    <color name="grey_bright">#F4F4F4</color>
+    <color name="panic_button_background">#EB2B2B</color>
+
+
+    <!-- For dots -->
+    <color name="dots_inactive">#939598</color>
+    <color name="dots_active">#32C1A8</color>
+
+    <!-- For Forgot Password -->
+    <color  name="black_overlay">#99000000</color>
+    <color name="divider">#D9D9D9</color>
+    <color name="text_grey_light">#787878</color>
+    <color name="text_grey_light_alpha">#92787878</color>
+
+
+
+
+
+    <!-- FOR CCP -->
+    <color name="defaultContentColor">@android:color/black</color>
+
+    <!--for drawer-->
+    <color name="colorDrawer">#afadad</color>
+
+
+    <!-- added for i-merchant -->
+    <!-- Home Styles -->
+    <color name="dark_blue">#1d83c5</color>
+    <color name="green">#63bc5d</color>
+    <color name="orange">#efa41f</color>
+    <color name="purple">#9f8fc3</color>
+    <color name="light_blue">#56c6e8</color>
+    <color name="red">#f15f60</color>
+    <color name="brown">#a98d4f</color>
+    <color name="textfieldColor">#555555</color>
+    <color name="storeAddressLightGray">#666666</color>
+    <color name="storeTitleGray">#555555</color>
+    <color name="storeTitleGray1">#424242</color>
+
+
+    <!-- Store Details Styles -->
+    <color name="storeDetailsImgBgColor">#E2E2E2</color>
+    <color name="tabButtonSelected">#3699D6</color>
+    <color name="tabButtonNormal">#2F8AC2</color>
+
+    <color name="colorAccent">#3699D6</color> <!-- Orig #FF4081-->
+
+    <color name="colorPrimary2">#3699D6</color>
+
+    <!--Color for ioi community-->
+    <color name="ioi_common_text_color">#1D3884</color><!---->
+    <color name="ioi_common_background_color">#1D3884</color><!---->
+
+    <!--Color for i-merchant-->
+    <color name="imerchant_common_background_color">#3699D6</color>
+
+    <color name="light_red_background">#FFE6E6</color>
+
+
+
+</resources>
